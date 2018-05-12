@@ -1,0 +1,87 @@
+_repo: A-Budget-of-Christmas-Tales-by-Charles-Dickens-and-Others_28198
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Collingwood, Herbert W. (Herbert Winslow)
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '33203'
+    url: http://www.gutenberg.org/2009/agents/33203
+  - agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J.H.
+    - Ewing, J. H. (Juliana Horatia)
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+  - agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+  - agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+  - agent_name: Schayer, Julia Thompson von Stosch
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '33202'
+    url: http://www.gutenberg.org/2009/agents/33202
+  - agent_name: Wilcox, Ella Wheeler
+    alias: Wheeler, Ella
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '1138'
+    url: http://www.gutenberg.org/2009/agents/1138
+    wikipedia: http://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2009-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28198'
+  lccn: '06037240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+tableOfContents: Dickens, C. A Christmas carol -- Sangster, M. E. The Christmas babe
+  -- Corning, Mrs. W. H. A western Christmas -- Bacheller, I. Joe's search for Santa
+  Claus -- Schayer, J. Angela's Christmas -- The first Puritan Christmas tree -- Butterworth,
+  H. First New England Christmas -- Dickens, C. The chimes -- Redmond, C. Billy's
+  Santa Claus experience -- Stowe, Mrs. H. B. Christmas in Poganuc -- Molesworth,
+  Mrs. The Christmas princess -- Widow Townsend's visitor -- Wilcox, E. W. The old
+  man's Christmas -- Dickens, C. The Christmas goblin -- Mead, C. H. The song of the
+  star -- Collingwood, H. W. Indian Pete's Christmas gift -- My Christmas dinner --
+  Dickens, C. The poor traveler -- The legend of the Christmas tree -- Ewing, J. H.
+  The peace egg.
+title: A Budget of Christmas Tales by Charles Dickens and Others
+url: http://www.gutenberg.org/ebooks/28198
