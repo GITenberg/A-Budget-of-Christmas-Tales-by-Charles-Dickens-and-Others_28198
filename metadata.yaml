@@ -60,6 +60,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28198#A-Budget-of-Christmas-Tales-by-Charles-Dickens-and-Others
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2009-02-26'
 gutenberg_type: Text
