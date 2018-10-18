@@ -75,6 +75,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Christmas stories'
+- GITenberg
 tableOfContents: Dickens, C. A Christmas carol -- Sangster, M. E. The Christmas babe
   -- Corning, Mrs. W. H. A western Christmas -- Bacheller, I. Joe's search for Santa
   Claus -- Schayer, J. Angela's Christmas -- The first Puritan Christmas tree -- Butterworth,
